@@ -1,0 +1,577 @@
+country,name
+Peru,Pedro Gallese
+Peru,Carlos Cáceda
+Peru,Christian Cueva
+Peru,Andy Polo
+Peru,Aldo Corzo
+Peru,Alberto Rodríguez
+Peru,Miguel Trauco
+Peru,Christian Ramos
+Peru,Miguel Araujo
+Peru,Yoshimar Yotún
+Peru,Edison Flores
+Peru,André Carrillo
+Peru,Luis Advíncula
+Peru,Raul Ruidíaz
+Peru,Paolo Hurtado
+Peru,Paolo Guerrero
+Peru,Renato Tapia
+Peru,Jefferson Farfán
+Egypt,Ahmed Abdelmonem Fathy
+Egypt,Ahmed Hegazi
+Egypt,Ramy Rabia
+Egypt,Amr Gamal
+Egypt,Saad El-Din Samir
+Egypt,Omar Gaber
+Egypt,Mohamed Elneny
+Egypt,Ahmed Elmohamady
+Egypt,Tarek Hamed
+Egypt,Ramadan Sobhi
+Egypt,Ahmed Hassan
+Egypt,Essam El Hadary
+Egypt,Trézéguet
+Egypt,Mohamed Salah
+Egypt,Mahmoud Kahraba
+Egypt,Mohamed Abdel Shafy
+Egypt,Abdallah El Said
+Egypt,Ali Gabr
+Japan,Eiji Kawashima
+Japan,Yūto Nagatomo
+Japan,Shinji Okazaki
+Japan,Tomoaki Makino
+Japan,Maya Yoshida
+Japan,Masato Morishige
+Japan,Gōtoku Sakai
+Japan,Makoto Hasebe
+Japan,Hotaru Yamaguchi
+Japan,Hiroki Sakai
+Japan,Yūya Ōsako
+Japan,Yūya Kubo
+Japan,Genki Haraguchi
+Japan,Shinji Kagawa
+Japan,Hiroshi Kiyotake
+Japan,Takashi Usami
+Japan,Keisuke Honda
+Japan,Shūsaku Nishikawa
+Spain,Nacho Monreal
+Spain,Andrés Iniesta
+Spain,Isco
+Spain,Sergio Busquets
+Spain,Daniel Carvajal
+Spain,Saúl Ñíguez
+Spain,Nacho
+Spain,Marco Asensio
+Spain,Diego Costa
+Spain,Álvaro Morata
+Spain,David Silva
+Spain,Thiago
+Spain,David de Gea
+Spain,Sergio Ramos
+Spain,Vitolo
+Spain,Gerard Piqué
+Spain,Koke
+Spain,Jordi Alba
+Brazil,Alisson
+Brazil,Gabriel Jesus
+Brazil,Marcelo
+Brazil,Renato Augusto
+Brazil,Dani Alves
+Brazil,Willian
+Brazil,Paulinho
+Brazil,Thiago Silva
+Brazil,Giuliano
+Brazil,Filipe Luís
+Brazil,Neymar Jr
+Brazil,Fernandinho
+Brazil,Marquinhos
+Brazil,Miranda
+Brazil,Casemiro
+Brazil,Philippe Coutinho
+Brazil,Roberto Firmino
+Brazil,Douglas Costa
+France,Djibril Sidibé
+France,Olivier Giroud
+France,Samuel Umtiti
+France,Lucas Digne
+France,Layvin Kurzawa
+France,Antoine Griezmann
+France,Hugo Lloris
+France,Paul Pogba
+France,Alexandre Lacazette
+France,Kylian Mbappé
+France,Laurent Koscielny
+France,Ousmane Dembélé
+France,Adrien Rabiot
+France,Anthony Martial
+France,Blaise Matuidi
+France,Raphaël Varane
+France,N'Golo Kanté
+France,Thomas Lemar
+Mexico,Andrés Guardado
+Mexico,Javier Hernández
+Mexico,Héctor Moreno
+Mexico,Hirving Lozano
+Mexico,Guillermo Ochoa
+Mexico,Jonathan dos Santos
+Mexico,Giovani dos Santos
+Mexico,Javier Aquino
+Mexico,Raúl Jiménez
+Mexico,Hugo Ayala
+Mexico,Jesús Gallardo
+Mexico,Carlos Salcedo
+Mexico,Héctor Herrera
+Mexico,Oribe Peralta
+Mexico,Miguel Layún
+Mexico,Diego Reyes
+Mexico,Jesús Corona
+Mexico,Carlos Vela
+Panama,Gabriel Torres
+Panama,Fidel Escobar
+Panama,Gabriel Gómez
+Panama,Aníbal Godoy
+Panama,Adolfo Machado
+Panama,Abdiel Arroyo
+Panama,Román Torres
+Panama,Armando Cooper
+Panama,Michael Murillo
+Panama,Alberto Quintero
+Panama,José Calderón
+Panama,Édgar Bárcenas
+Panama,Felipe Baloy
+Panama,Jaime Penedo
+Panama,Luis Tejada
+Panama,Luis Ovalle
+Panama,Eric Davis
+Panama,Blas Pérez
+Poland,Krzysztof Mączyński
+Poland,Bartosz Bereszyński
+Poland,Artur Jędrzejczyk
+Poland,Kamil Grosicki
+Poland,Arkadiusz Milik
+Poland,Grzegorz Krychowiak
+Poland,Kamil Glik
+Poland,Robert Lewandowski
+Poland,Łukasz Fabiański
+Poland,Wojciech Szczęsny
+Poland,Piotr Zieliński
+Poland,Karol Linetty
+Poland,Jakub Błaszczykowski
+Poland,Michał Pazdan
+Poland,Maciej Rybus
+Poland,Thiago Cionek
+Poland,Łukasz Piszczek
+Poland,Łukasz Teodorczyk
+Russia,Fedor Smolov
+Russia,Aleksandr Erokhin
+Russia,Aleksandr Golovin
+Russia,Igor Smolnikov
+Russia,Igor Akinfeev
+Russia,Aleksandr Kokorin
+Russia,Ilya Kutepov
+Russia,Alan Dzagoev
+Russia,Fedor Kudryashov
+Russia,Daler Kuzyayev
+Russia,Aleksei Miranchuk
+Russia,Mário Fernandes
+Russia,Dmitry Poloz
+Russia,Denis Glushakov
+Russia,Yuri Zhirkov
+Russia,Aleksandr Samedov
+Russia,Viktor Vasin
+Russia,Dmitri Kombarov
+Serbia,Matija Nastasić
+Serbia,Mijat Gaćinović
+Serbia,Branislav Ivanović
+Serbia,Antonio Rukavina
+Serbia,Adem Ljajić
+Serbia,Dušan Tadić
+Serbia,Sergej Milinković-Savić
+Serbia,Filip Kostić
+Serbia,Aleksandar Prijović
+Serbia,Aleksandar Kolarov
+Serbia,Aleksandar Mitrović
+Serbia,Jagoš Vuković
+Serbia,Nemanja Matić
+Serbia,Nemanja Gudelj
+Serbia,Vladimir Stojković
+Serbia,Duško Tošić
+Serbia,Nikola Maksimović
+Serbia,Luka Milivojević
+Sweden,Martin Olsson
+Sweden,Pontus Jansson
+Sweden,Isaac Kiese Thelin
+Sweden,Robin Olsen
+Sweden,Mikael Lustig
+Sweden,Viktor Claesson
+Sweden,Emil Krafth
+Sweden,Emil Forsberg
+Sweden,Victor Nilsson Lindelöf
+Sweden,Andreas Granqvist
+Sweden,John Guidetti
+Sweden,Ludwig Augustinsson
+Sweden,Albin Ekdal
+Sweden,Ola Toivonen
+Sweden,Gustav Svensson
+Sweden,Jimmy Durmaz
+Sweden,Sebastian Larsson
+Sweden,Marcus Berg
+Belgium,Youri Tielemans
+Belgium,Thomas Vermaelen
+Belgium,Romelu Lukaku
+Belgium,Dries Mertens
+Belgium,Kevin De Bruyne
+Belgium,Nacer Chadli
+Belgium,Marouane Fellaini
+Belgium,Jan Vertonghen
+Belgium,Yannick Carrasco
+Belgium,Michy Batshuayi
+Belgium,Toby Alderweireld
+Belgium,Eden Hazard
+Belgium,Mousa Dembélé
+Belgium,Vincent Kompany
+Belgium,Axel Witsel
+Belgium,Radja Nainggolan
+Belgium,Thomas Meunier
+Belgium,Thibaut Courtois
+Croatia,Josip Pivarić
+Croatia,Danijel Subašić
+Croatia,Dejan Lovren
+Croatia,Ivan Rakitić
+Croatia,Nikola Kalinić
+Croatia,Ivan Strinić
+Croatia,Milan Badelj
+Croatia,Domagoj Vida
+Croatia,Vedran Ćorluka
+Croatia,Andrej Kramarić
+Croatia,Mario Mandžukić
+Croatia,Luka Modrić
+Croatia,Ivan Perišić
+Croatia,Marko Rog
+Croatia,Mateo Kovačić
+Croatia,Šime Vrsaljko
+Croatia,Marcelo Brozović
+Croatia,Mario Pašalić
+Denmark,Mathias Jørgensen
+Denmark,Riza Durmisi
+Denmark,Jens Stryger Larsen
+Denmark,Andreas Cornelius
+Denmark,Andreas Christensen
+Denmark,Lasse Schöne
+Denmark,Jannik Vestergaard
+Denmark,Thomas Delaney
+Denmark,Kasper Schmeichel
+Denmark,Peter Ankersen
+Denmark,William Kvist
+Denmark,Pione Sisto
+Denmark,Christian Eriksen
+Denmark,Yussuf Poulsen
+Denmark,Simon Kjær
+Denmark,Nicolai Jørgensen
+Denmark,Nicklas Bendtner
+Denmark,Andreas Bjelland
+England,Alex Oxlade-Chamberlain
+England,Jordan Henderson
+England,Jordan Pickford
+England,Dele Alli
+England,Jamie Vardy
+England,Ryan Bertrand
+England,Marcus Rashford
+England,Kyle Walker
+England,Harry Kane
+England,John Stones
+England,Adam Lallana
+England,Joe Hart
+England,Eric Dier
+England,Phil Jones
+England,Jesse Lingard
+England,Danny Rose
+England,Gary Cahill
+England,Raheem Sterling
+Germany,Sebastian Rudy
+Germany,Toni Kroos
+Germany,Thomas Müller
+Germany,Leon Goretzka
+Germany,Julian Brandt
+Germany,Timo Werner
+Germany,Emré Can
+Germany,Mario Götze
+Germany,Julian Draxler
+Germany,Jérôme Boateng
+Germany,Joshua Kimmich
+Germany,Mesut Özil
+Germany,Leroy Sané
+Germany,Manuel Neuer
+Germany,Mats Hummels
+Germany,Jonas Hector
+Germany,Antonio Rüdiger
+Germany,Sami Khedira
+IR Iran,Milad Mohammadi
+IR Iran,Vouria Ghafouri
+IR Iran,Karim Ansarifard
+IR Iran,Morteza Pouraliganji
+IR Iran,Alireza Jahanbakhsh
+IR Iran,Saman Ghoddos
+IR Iran,Ehsan Hajsafi
+IR Iran,Jalal Hosseini
+IR Iran,Sardar Azmoun
+IR Iran,Ramin Rezaeian
+IR Iran,Vahid Amiri
+IR Iran,Omid Ebrahimi
+IR Iran,Mehdi Taremi
+IR Iran,Saeid Ezatolahi
+IR Iran,Ashkan Dejagah
+IR Iran,Reza Ghoochannejhad
+IR Iran,Pejman Montazeri
+IR Iran,Alireza Beiranvand
+Iceland,Ragnar Sigurðsson
+Iceland,Emil Hallfredsson
+Iceland,Sverrir Ingason
+Iceland,Ari Skúlason
+Iceland,Kári Árnason
+Iceland,Björn Sigurdarson
+Iceland,Birkir Bjarnason
+Iceland,Gylfi Sigurdsson
+Iceland,Birkir Sævarsson
+Iceland,Vidar Örn Kjartansson
+Iceland,Aron Gunnarsson
+Iceland,Hannes Halldórsson
+Iceland,Arnór Ingvi Traustason
+Iceland,Jón Dadi Bödvarsson
+Iceland,Hordur Magnússon
+Iceland,Johann Gudmundsson
+Iceland,Alfred Finnbogason
+Iceland,Rúrik Gislason
+Morocco,Youssef En-Nesyri
+Morocco,Rachid Alioui
+Morocco,Fayçal Fajr
+Morocco,Nabil Dirar
+Morocco,Karim El Ahmadi
+Morocco,Romain Saïss
+Morocco,Younès Belhanda
+Morocco,Youssef Aït Bennasser
+Morocco,Khalid Boutaïb
+Morocco,Achraf Hakimi
+Morocco,Mbark Boussoufa
+Morocco,Aziz Bouhaddouz
+Morocco,Nordin Amrabat
+Morocco,Munir Mohamedi
+Morocco,Hamza Mendyl
+Morocco,Fouad Chafik
+Morocco,Medhi Benatia
+Morocco,Hakim Ziyech
+Nigeria,Ikechukwu Ezenwa
+Nigeria,William Troost-Ekong
+Nigeria,Mikel Agu
+Nigeria,Odion Ighalo
+Nigeria,Alex Iwobi
+Nigeria,Elderson Echiéjilé
+Nigeria,Victor Moses
+Nigeria,Ogenyi Onazi
+Nigeria,Leon Balogun
+Nigeria,Ola Aina
+Nigeria,John Obi Mikel
+Nigeria,Wilfred Ndidi
+Nigeria,Moses Simon
+Nigeria,Kenneth Omeruo
+Nigeria,Shehu Abdullahi
+Nigeria,Kelechi Iheanacho
+Nigeria,Etebo Oghenekaro
+Nigeria,Ahmed Musa
+Senegal,Moussa Wagué
+Senegal,Cheikhou Kouyaté
+Senegal,Salif Sané
+Senegal,Moussa Sow
+Senegal,Keita Baldé
+Senegal,Kara Mbodji
+Senegal,Lamine Gassama
+Senegal,Kalidou Koulibaly
+Senegal,Mame Diouf
+Senegal,Ismaïla Sarr
+Senegal,Sadio Mané
+Senegal,M'Baye Niang
+Senegal,Moussa Konaté
+Senegal,Idrissa Gueye
+Senegal,Saliou Ciss
+Senegal,Cheikh Ndoye
+Senegal,Khadim N'Diaye
+Senegal,Pape Alioune N'Diaye
+Tunisia,Yassine Meriah
+Tunisia,Ali Maâloul
+Tunisia,Yoann Touzghar
+Tunisia,Naïm Sliti
+Tunisia,Ghailene Chaalali
+Tunisia,Hamdi Nagguez
+Tunisia,Aymen Mathlouthi
+Tunisia,Syam Ben Youssef
+Tunisia,Ahmed Akaïchi
+Tunisia,Ferjani Sassi
+Tunisia,Aymen Abdennour
+Tunisia,Taha Yassine Khenissi
+Tunisia,Anice Badri
+Tunisia,Mohamed Amine Ben Amor
+Tunisia,Wahbi Khazri
+Tunisia,Youssef Msakni
+Tunisia,Oussama Haddadi
+Tunisia,Fakhreddine Ben Youssef
+Uruguay,Carlos Sánchez
+Uruguay,Edinson Cavani
+Uruguay,Cristian Rodríguez
+Uruguay,Matías Vecino
+Uruguay,Egidio Arévalo Ríos
+Uruguay,Luis Suárez
+Uruguay,Sebastián Coates
+Uruguay,José Giménez
+Uruguay,Fernando Muslera
+Uruguay,Mathías Corujo
+Uruguay,Nicolás Lodeiro
+Uruguay,Martín Cáceres
+Uruguay,Diego Godín
+Uruguay,Diego Rolán
+Uruguay,Maxi Pereira
+Uruguay,Gastón Silva
+Uruguay,Álvaro González
+Uruguay,Cristhian Stuani
+Colombia,Davinson Sánchez
+Colombia,Abel Aguilar
+Colombia,Juan Guillermo Cuadrado
+Colombia,Frank Fabra
+Colombia,Carlos Sánchez
+Colombia,Carlos Bacca
+Colombia,Giovanni Moreno
+Colombia,James Rodríguez
+Colombia,Duván Zapata
+Colombia,Radamel Falcao Garcia
+Colombia,Teófilo Gutiérrez
+Colombia,Santiago Arias
+Colombia,Wílmar Barrios
+Colombia,Edwin Cardona
+Colombia,Cristián Zapata
+Colombia,Yerry Mina
+Colombia,Yimmi Chará
+Colombia,David Ospina
+Portugal,Raphaël Guerreiro
+Portugal,André Gomes
+Portugal,Bruno Alves
+Portugal,José Fonte
+Portugal,Pepe
+Portugal,Cédric
+Portugal,Danilo Pereira
+Portugal,William Carvalho
+Portugal,Bernardo Silva
+Portugal,Rui Patrício
+Portugal,Nani
+Portugal,João Mário
+Portugal,André Silva
+Portugal,Eliseu
+Portugal,Gelson Martins
+Portugal,Ricardo Quaresma
+Portugal,João Moutinho
+Portugal,Cristiano Ronaldo
+Argentina,Ramiro Funes Mori
+Argentina,Gabriel Mercado
+Argentina,Gonzalo Higuaín
+Argentina,Marcos Rojo
+Argentina,Nicolás Otamendi
+Argentina,Lucas Biglia
+Argentina,Javier Mascherano
+Argentina,Éver Banega
+Argentina,Marcos Acuña
+Argentina,Paulo Dybala
+Argentina,Sergio Agüero
+Argentina,Ángel Di María
+Argentina,Federico Fazio
+Argentina,Enzo Pérez
+Argentina,Eduardo Salvio
+Argentina,Sergio Romero
+Argentina,Mauro Icardi
+Argentina,Lionel Messi
+Australia,Mark Milligan
+Australia,Jackson Irvine
+Australia,Milos Degenek
+Australia,Mile Jedinak
+Australia,Mitchell Langerak
+Australia,Robbie Kruse
+Australia,James Troisi
+Australia,Trent Sainsbury
+Australia,Mathew Leckie
+Australia,Tom Rogic
+Australia,Aaron Mooy
+Australia,Tomi Juric
+Australia,Mathew Ryan
+Australia,Massimo Luongo
+Australia,Tim Cahill
+Australia,Ryan McGowan
+Australia,Aziz Behich
+Australia,Bailey Wright
+Costa Rica,Michael Umaña
+Costa Rica,Keylor Navas
+Costa Rica,Marco Ureña
+Costa Rica,Bryan Ruiz
+Costa Rica,Kendall Waston
+Costa Rica,Bryan Oviedo
+Costa Rica,Johan Venegas
+Costa Rica,Francisco Calvo
+Costa Rica,David Guzmán
+Costa Rica,Johnny Acosta
+Costa Rica,Rónald Matarrita
+Costa Rica,Randall Azofeifa
+Costa Rica,Giancarlo González
+Costa Rica,Celso Borges
+Costa Rica,Joel Campbell
+Costa Rica,Rodney Wallace
+Costa Rica,Cristian Gamboa
+Costa Rica,Christian Bolaños
+Switzerland,Fabian Schär
+Switzerland,Admir Mehmedi
+Switzerland,Valon Behrami
+Switzerland,Yann Sommer
+Switzerland,Ricardo Rodríguez
+Switzerland,Steven Zuber
+Switzerland,Gélson Fernandes
+Switzerland,Denis Zakaria
+Switzerland,Manuel Akanji
+Switzerland,Haris Seferović
+Switzerland,Breel Embolo
+Switzerland,Xherdan Shaqiri
+Switzerland,Michael Lang
+Switzerland,Johan Djourou
+Switzerland,Granit Xhaka
+Switzerland,Blerim Džemaili
+Switzerland,Eren Derdiyok
+Switzerland,Stephan Lichtsteiner
+Saudi Arabia,Motaz Hawsawi
+Saudi Arabia,Osama Hawsawi
+Saudi Arabia,Salman Al-Faraj
+Saudi Arabia,Mohammad Al-Sahlawi
+Saudi Arabia,Mansour Al-Harbi
+Saudi Arabia,Abdullah Al-Mayouf
+Saudi Arabia,Omar Hawsawi
+Saudi Arabia,Nawaf Al-Abed
+Saudi Arabia,Nasser Al-Shamrani
+Saudi Arabia,Abdulmalek Al-Khaibri
+Saudi Arabia,Taisir Al-Jassim
+Saudi Arabia,Fahad Al-Muwallad
+Saudi Arabia,Mohammed Al-Beraik
+Saudi Arabia,Yahya Al-Shehri
+Saudi Arabia,Abdullah Al-Zori
+Saudi Arabia,Yasser Al-Shahrani
+Saudi Arabia,Salem Al-Dosari
+Saudi Arabia,Salman Al-Moasher
+Korea Republic,Jung Wooyoung
+Korea Republic,Kim Seunggyu
+Korea Republic,Kwak Taehwi
+Korea Republic,Lee Chungyong
+Korea Republic,Ji Dongwon
+Korea Republic,Ki Sungyueng
+Korea Republic,Koo Jacheol
+Korea Republic,Lee Jaesung
+Korea Republic,Kim Jinsu
+Korea Republic,Jang Hyunsoo
+Korea Republic,Han Kookyoung
+Korea Republic,Son Heungmin
+Korea Republic,Kim Shinwook
+Korea Republic,Nam Taehee
+Korea Republic,Hwang Heechan
+Korea Republic,Kwon Changhoon
+Korea Republic,Hong Jeongho
+Korea Republic,Kim Younggwon
